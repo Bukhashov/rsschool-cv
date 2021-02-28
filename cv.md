@@ -7,7 +7,7 @@
 
 ## Summary
 my goal is to be a full stacker. If I want to learn or do something, I will do it, but I have no work experience. 
-I am currently learning JavaScript and Python and know C++ C # HTML CSS
+I am currently learning JavaScript and Python and know `C++` `C#` `HTML` `CSS`
 
 ## Skills
 * HTML
