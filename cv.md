@@ -22,3 +22,9 @@ I am currently learning JavaScript and Python and know `C++` `C#` `HTML` `CSS`
 
 ## Code examples
 Github profile: ***<https://github.com/Bukhashov>***
+
+## Education
+I study at the [Karaganda University named after E.A. Bouquets](https://buketov.edu.kz/) `bachelor's` degree profession `information systems`
+
+## English
+My English level is `Pre intermediate`.
