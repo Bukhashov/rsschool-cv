@@ -19,3 +19,6 @@ I am currently learning JavaScript and Python and know `C++` `C#` `HTML` `CSS`
 * C#
 * Python
 * Figma
+
+## Code examples
+Github profile: ***<https://github.com/Bukhashov>***
