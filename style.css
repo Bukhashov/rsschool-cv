@@ -54,6 +54,10 @@ body{
 }
 
 /* user */
+.user{
+    width: 100%;
+}
+
 .user--container{
     display: flex;
     align-items: center;
@@ -91,4 +95,29 @@ body{
     height: 250px;
     border-radius: 10px;
     margin: 20px;
+}
+
+/* skills */
+.skills{
+    width: 100%;
+
+}
+
+.skills--container{
+    padding: 0 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.technologies{
+    margin: 2px;
+    width: 130px;
+    height: 25px;
+    background: #fff;
+    border: 2px solid #fff;
+    border-radius: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 12px;
 }
