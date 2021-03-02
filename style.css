@@ -60,10 +60,31 @@ body{
     justify-content: center;
 
 }
+.summer--code_examples{
+    display: grid;
+    justify-content: center;
+    
+}
 .summary{
     width: 450px;
     margin: 20px;
 }
+.code__examples{
+    margin: 10px;
+    display: grid;
+}
+.code__examples > a {
+    display: grid;
+    justify-content: center;
+
+    text-decoration: none;
+    color: #000;
+}
+.code__examples > a > img{
+    width: 48px;
+    height: 48px;
+}
+
 .user_img > img{
 
     width: 250px;
