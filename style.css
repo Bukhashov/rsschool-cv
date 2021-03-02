@@ -113,11 +113,42 @@ body{
 .technologies{
     margin: 2px;
     width: 130px;
-    height: 25px;
-    background: #fff;
-    border: 2px solid #fff;
-    border-radius: 15px;
-    text-align: center;
-    text-transform: uppercase;
+    height: 30px;
+    border-radius: 5px;
     font-size: 12px;
+
+    background: #fff;
+    text-transform: uppercase;
+
+    cursor: pointer;
+
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+/* footer */
+.footer{
+    display: grid;
+    align-items: center;
+
+}
+.education--english{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+/* education */
+.education{
+    width: 350px;
+    margin: 15px;
+}
+
+.education > p > a{
+    text-decoration: none;
+}
+.english{
+    margin: 20px;
 }
